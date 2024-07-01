@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="dvcTheme (3)" GUID="{473c88dd-7b90-4cfe-809d-8961a9999691}" BaseGUID="{1ca7c4ea-abe2-413e-b96c-0a2dacd3eaf6}">
+  <Theme Name="dvcTheme (4)" GUID="{f368667e-be73-43a3-877a-375868ace4ed}" BaseGUID="{1ca7c4ea-abe2-413e-b96c-0a2dacd3eaf6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2471,13 +2471,13 @@
         <Background Type="CT_RAW" Source="FF2F7C27" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FFD0DBA1" />
+        <Background Type="CT_RAW" Source="FFEDECE4" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FFD0DBA1" />
+        <Background Type="CT_RAW" Source="FFEDECE4" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="FFC3B98C" />
+        <Background Type="CT_RAW" Source="FF948024" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
         <Background Type="CT_RAW" Source="FFDBD2B3" />
@@ -2486,10 +2486,10 @@
         <Background Type="CT_RAW" Source="FFF6EC9F" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FF38E24F" />
+        <Background Type="CT_RAW" Source="FF05BA1D" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
-        <Background Type="CT_RAW" Source="FFF7ECC2" />
+        <Background Type="CT_RAW" Source="FFC67A27" />
       </Color>
       <Color Name="CommandBarMouseDownBackgroundBegin">
         <Background Type="CT_RAW" Source="FFE4916D" />
@@ -3189,13 +3189,13 @@
         <Background Type="CT_RAW" Source="FFD1EBD5" />
       </Color>
       <Color Name="CommandBarTextActive">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF4D0303" />
       </Color>
       <Color Name="CommandBarTextHover">
         <Background Type="CT_RAW" Source="FFF2EAAC" />
       </Color>
       <Color Name="CommandBarTextInactive">
-        <Background Type="CT_RAW" Source="FF755E0E" />
+        <Background Type="CT_RAW" Source="FF87701D" />
       </Color>
       <Color Name="CommandBarTextSelected">
         <Background Type="CT_RAW" Source="FFEDE99D" />
@@ -4275,8 +4275,8 @@
         <Background Type="CT_RAW" Source="FFE2EAFF" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF77C471" />
-        <Foreground Type="CT_RAW" Source="FF1A1545" />
+        <Background Type="CT_RAW" Source="FFC8B498" />
+        <Foreground Type="CT_RAW" Source="FF086312" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
         <Background Type="CT_RAW" Source="FF007ACC" />
