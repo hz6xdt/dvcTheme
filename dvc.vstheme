@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="dvcTheme (4)" GUID="{f368667e-be73-43a3-877a-375868ace4ed}" BaseGUID="{1ca7c4ea-abe2-413e-b96c-0a2dacd3eaf6}">
+  <Theme Name="dvcTheme (5)" GUID="{ebe4656a-cf0d-4396-9453-722efc375303}" BaseGUID="{1ca7c4ea-abe2-413e-b96c-0a2dacd3eaf6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2282,10 +2282,10 @@
         <Background Type="CT_RAW" Source="FFC70570" />
       </Color>
       <Color Name="AutoHideTabBackgroundBegin">
-        <Background Type="CT_RAW" Source="FFE4DDB3" />
+        <Background Type="CT_RAW" Source="FFEDE8C9" />
       </Color>
       <Color Name="AutoHideTabBackgroundEnd">
-        <Background Type="CT_RAW" Source="FFE4DDB3" />
+        <Background Type="CT_RAW" Source="FFDFE4B0" />
       </Color>
       <Color Name="AutoHideTabBorder">
         <Background Type="CT_RAW" Source="FFDB9F41" />
@@ -2294,13 +2294,13 @@
         <Background Type="CT_RAW" Source="FF7E0606" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FFB7BF6E" />
+        <Background Type="CT_RAW" Source="FFDFE4B0" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FFB7BF6E" />
+        <Background Type="CT_RAW" Source="FFDFE4B0" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFE6C851" />
+        <Background Type="CT_RAW" Source="FFEECC47" />
       </Color>
       <Color Name="AutoHideResizeGrip">
         <Background Type="CT_RAW" Source="FFE8E8EC" />
@@ -2471,10 +2471,10 @@
         <Background Type="CT_RAW" Source="FF2F7C27" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FFEDECE4" />
+        <Background Type="CT_RAW" Source="FFF2F1E7" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FFEDECE4" />
+        <Background Type="CT_RAW" Source="FFF2F1E7" />
       </Color>
       <Color Name="CommandBarMenuBorder">
         <Background Type="CT_RAW" Source="FF948024" />
@@ -3195,7 +3195,7 @@
         <Background Type="CT_RAW" Source="FFF2EAAC" />
       </Color>
       <Color Name="CommandBarTextInactive">
-        <Background Type="CT_RAW" Source="FF87701D" />
+        <Background Type="CT_RAW" Source="FF7C6618" />
       </Color>
       <Color Name="CommandBarTextSelected">
         <Background Type="CT_RAW" Source="FFEDE99D" />
@@ -4079,7 +4079,7 @@
         <Background Type="CT_RAW" Source="FF1BBE23" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownGlyph">
-        <Background Type="CT_RAW" Source="FF0D23A7" />
+        <Background Type="CT_RAW" Source="FF243BCA" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBackground">
         <Background Type="CT_RAW" Source="FFF2EEC4" />
@@ -4227,7 +4227,7 @@
         <Background Type="CT_RAW" Source="66F6D3A1" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
-        <Background Type="CT_RAW" Source="FFC83D7D" />
+        <Background Type="CT_RAW" Source="FFD9468A" />
       </Color>
       <Color Name="MainWindowActiveIconBuilding">
         <Background Type="CT_RAW" Source="FFD7A04A" />
@@ -4275,7 +4275,7 @@
         <Background Type="CT_RAW" Source="FFE2EAFF" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FFC8B498" />
+        <Background Type="CT_RAW" Source="FFD7C09F" />
         <Foreground Type="CT_RAW" Source="FF086312" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
