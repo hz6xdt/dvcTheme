@@ -3,7 +3,7 @@ Vivid theme for Visual Studio:
 
 <br/>
 
-![example screenshot](images/screenshot.png)
+![example screenshot](images/Screenshot.png)
 
 <br/>
 <br/>
